@@ -18,5 +18,5 @@ Este projeto é uma implementação de um jogo baseado no famoso jogo de cartas 
 
 ## Demonstração
 
-Para ver o projeto em funcionamento, acesse a [demo online](https://danieleksantos.github.io/Projeto-de-Estudo__GAME-Yugioh/).
+Para ver o projeto em funcionamento, acesse a [demo online](https://danieleksantos.github.io/GAME__Yugioh/).
 
